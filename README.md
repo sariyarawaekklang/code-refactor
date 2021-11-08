@@ -1,10 +1,22 @@
 # Code Refactor Starter Code
 
-In this assignment, I refactored the code to meet accessibility standards.
-1. Semantic HTML elements
-2. Elements follow a logical structure independent of styling and position
-3. Image elements have accessible alt attributes
-4. Heading attributes fall in sequential order
-5. Title element is concise and descriptive
+In this assignment, I was refactored a code to meet accessibility standards, while ensuring the actual webpage didn't change in appearance.
 
-Grading requirements included technical acceptance criteria, deployment, application quality, and repository quality.
+# Accessibilty Standards Targeted
+
+* Semantic HTML elements
+* Elements follow a logical structure independent of styling and position
+* Image elements have accessible alt attributes
+* Heading attributes fall in sequential order
+* Title element is concise and descriptive
+
+# Grading Requirements
+
+* Technical acceptance criteria
+* Deployment
+* Application quality
+* Repository quality
+ 
+# Link to Deployed Application
+
+* ()
